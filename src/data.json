@@ -1,0 +1,43 @@
+{
+    "metadata": "",
+    "data":[
+        {"thumbnailImage":"../../images/test.jpeg",
+        "image": "../../images/test.jpeg",
+        "title": "0",
+        "setCurrent": true,
+        "results":[
+            {"title":"KB AI-OCR 분석 결과 1",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":true},
+            {"title":"직렬화 결과",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":false},
+            {"title":"문자 인식 결과",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":false},
+            {"title":"문자 탐지 결과",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":false}
+        ]
+        },
+        {"thumbnailImage":"../../images/vision.png",
+        "image": "../../images/vision.png",
+        "title": "1",
+        "setCurrent": false,
+        "results":[
+            {"title":"KB AI-OCR 분석 결과 2",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":true},
+            {"title":"직렬화 결과",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":false},
+            {"title":"문자 인식 결과",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":false},
+            {"title":"문자 탐지 결과",
+            "content":"<div class='overflow-x-auto'> <table class='table w-full'> <thead> <tr> <th></th> <th>Name</th> <th>Job</th> <th>Favorite Color</th> </tr> </thead> <tbody> <tr> <th>1</th> <td>Cy Ganderton</td> <td>Quality Control Specialist</td> <td>Blue</td> </tr> <tr> <th>2</th> <td>Hart Hagerty</td> <td>Desktop Support Technician</td> <td>Purple</td> </tr> <tr> <th>3</th> <td>Brice Swyre</td> <td>Tax Accountant</td> <td>Red</td> </tr> </tbody> </table> </div>",
+            "leaveOpen":false}
+        ]
+        }
+    ]
+}
